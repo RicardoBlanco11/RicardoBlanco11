@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hola, soy Ricardo
 
-<!--
-**RicardoBlanco11/RicardoBlanco11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sobre mí
 
-Here are some ideas to get you started:
+Soy estudiante de  la Universidad Tecnológica de Panamá  en la carrera Lic. en Redes informáticas. 
+Actualmente interesado en la tecnología,
+las redes informáticas, la programación y el desarrollo de
+soluciones tecnológicas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente estoy fortaleciendo mis conocimientos en
+programación, redes y sistemas computacionales.
+
+##  Tecnologías
+
+- C
+- Cisco Packet Tracer
+- Arduino
+- Git y GitHub
+- Redes informáticas
+
+##  Actualmente aprendiendo
+
+- Programación en C
+- Diseño y configuración de redes
+- Electrónica con Arduino
+- Sistemas computacionales
+
+##  Proyectos destacados
+
+-  Diseño e infraestructura de red en Cisco Packet Tracer
+-  Proyectos con Arduino
+-  Programas desarrollados en C
+
+##  Contacto
+
+- GitHub: RicardoBlanco11
+- Correo: ricardo.blanco@utp.ac.pa
+- celular: 6258-6482
